@@ -1,4 +1,4 @@
-README - Taller 1: punto 4  Orientación a Objetos y Enumerados
+CAMILO ANDRÉS SALAZAR CUADRADO  ESTUDIANTE DEL CURSO DE ESTRUCTURA DE DATOS - README - Taller 1: punto 4  Orientación a Objetos y Enumerados
 
 🚀 Lo que Aprendí
 
